@@ -1,1 +1,1 @@
-#仅供参考 -
+#The code is for reference only. The model parameters need to be tuned by oneself, and the environment needs to be configured by oneself. For experiments 5, 6, and 7, I set different environments tf1_env, tf2/env, tf3env, and conda activate. I need to configure the environment and install the pip package by myself first, paying attention to the path
